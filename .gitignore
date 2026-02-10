@@ -6,10 +6,11 @@ __pycache__/
 *.pyc
 
 # Data cache or sensitive content
-.png
-.jpg
 *.csv
 *.xlsx
+*.png
+*.jpg
+*.pkl
 data/
 model/
 output/
