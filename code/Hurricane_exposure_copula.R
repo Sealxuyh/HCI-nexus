@@ -913,3 +913,5 @@ write.csv(joint_obs,
           "joint_return_periods_observed.csv",
           row.names = FALSE)
 
+# Lee county hurricane Ian: 360 mm + 50 m/s
+# According to the National Weather Service, Lee County saw recorded rainfall of 14.42 inches while Collier County saw an estimated 5-8 inches of rainfall 
