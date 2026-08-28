@@ -8,7 +8,7 @@ __pycache__/
 # Data cache or sensitive content
 *.csv
 *.xlsx
-*.png
+# *.png
 *.jpg
 *.pkl
 data/
